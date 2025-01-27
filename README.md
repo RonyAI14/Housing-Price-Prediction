@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Housing Price Prediction Project</title>
+<title>Housing Price Prediction Project</title>
 </head>
 <body>
     <h1>Housing Price Prediction: Exploratory and Predictive Analysis</h1>
     
-    <p>
+<p>
         This project focuses on understanding the key factors influencing housing prices and building machine learning models to predict them accurately. 
         Using a comprehensive dataset of residential properties, we perform exploratory data analysis (EDA), feature engineering, and predictive modeling.
     </p>

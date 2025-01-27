@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Housing Price Prediction Project</title>
 </head>
 <body>
     <h1>Housing Price Prediction: Exploratory and Predictive Analysis</h1>

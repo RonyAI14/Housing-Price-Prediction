@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Housing Price Prediction</title>
-    <style>
-        footer {
-            margin-top: 40px;
-            text-align: center;
-            font-style: italic;
-            color: #555;
-        }
-    </style>
+    
 </head>
 <body>
     <h1>Housing Price Prediction: Exploratory and Predictive Analysis</h1>
